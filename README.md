@@ -48,9 +48,9 @@ I'm always open to:
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=clayscript&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+![clayscript's Stats](https://github-readme-stats.vercel.app/api?username=clayscript&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![clayscript's Streak](https://github-readme-streak-stats.herokuapp.com/?user=clayscript&theme=vue-dark&hide_border=true)
+![clayscript's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clayscript&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <p align="left">
   <a href="https://github.com/clayscript?tab=repositories"><img src="https://img.shields.io/github/followers/clayscript?label=Follow&style=social"></a>
