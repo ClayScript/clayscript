@@ -26,7 +26,7 @@ Ich entwickle FiveM-Ressourcen, die Servern dabei helfen, einzigartige Features 
 | Script Name | Beschreibung | Link |
 | :--- | :--- | :--- |
 | **Job Invite** | Ein System, um Spielern nahtlos Jobs anzubieten. | [Zum Script](https://clayscripts.tebex.io/package/6361156) |
-| **Restricted Zone** | Erstelle und verwalte Sperrzonen auf der Map für spannenderes RP. | [Zum Store](https://clayscripts.tebex.io/package/6361699) |
+| **Restricted Zone** | Erstelle und verwalte Sperrzonen auf der Map für spannenderes RP. | [Zum Script](https://clayscripts.tebex.io/package/6361699) |
 
 ### 🛠️ Tech Stack & Tools
 
