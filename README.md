@@ -1,58 +1,39 @@
-<!-- Profile README for GitHub -->
+<h1 align="center">👋 Willkommen bei ClayScripts</h1>
 
-<h1 align="center">Hey there 👋, I'm Damon</h1>
-<p align="center">Developer • Open Source Contributor • Part of the <a href="https://github.com/zetaforge">ZetaForge</a> Team</p>
-
----
-
-## 🚀 About Me
-
-I'm a developer passionate about building fair, transparent, and performant communication tools.
-
-Currently, I'm part of the **[ZetaForge](https://github.com/zetaforge)** organization — a team on a mission to reinvent how communities communicate online.
-
----
-
-## 🛠️ What I'm Working On
-
-I'm currently contributing to **Citadel**, a privacy-focused communication platform by the <a href="https://github.com/zetaforge">ZetaForge</a> organization.
-
-#### 🔨 Tech Stack:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<p align="center">
+  <strong>Entwickler von FiveM Scripts</strong><br>
+  Verbessere das Roleplay-Erlebnis auf deinem Server mit performanten und anpassbaren Scripts.
 </p>
 
-Check out the project: [ZetaForge on GitHub](https://github.com/zetaforge)
+<p align="center">
+  <a href="https://clayscripts.tebex.io/">
+    <img src="https://img.shields.io/badge/Tebex-Store-ff4d4d?style=for-the-badge&logo=tebex&logoColor=white" alt="Tebex Store">
+  </a>
+</p>
 
 ---
 
-## ✨ Contributions & Collaboration
+### 🚀 Über meine Arbeit
 
-I'm always open to:
+Ich entwickle FiveM-Ressourcen, die Servern dabei helfen, einzigartige Features zu bieten. Viele meiner Scripts sind **Open Source**, was bedeutet, dass du sie nach dem Kauf perfekt an die Bedürfnisse deines Servers anpassen kannst.
 
-- 🤝 Collaborations on open source tools and dev infra
-- 🧪 Testing privacy-friendly communication platforms
-- 💬 Chatting about tech, open source, or ethics in software
+* 💻 **Schwerpunkt:** FiveM, Lua
+* 🛠️ **Top Scripts:** Job Invite, Restricted Zone
+* 📫 **Kontakt:** Erreichbar über meinen [Tebex-Store](https://clayscripts.tebex.io/)
 
-> 💬 _"I believe the best tools are built with community, empathy, and strong engineering."_  
-> — Let's build something meaningful.
+### 🛒 Beliebte Ressourcen (Tebex)
 
----
+| Script Name | Beschreibung | Link |
+| :--- | :--- | :--- |
+| **Job Invite** | Ein System, um Spielern nahtlos Jobs anzubieten. | [Zum Script](https://clayscripts.tebex.io/package/6361156) |
+| **Restricted Zone** | Erstelle und verwalte Sperrzonen auf der Map für spannenderes RP. | [Zum Store](https://clayscripts.tebex.io/package/6361699) |
 
-![clayscript's Stats](https://github-readme-stats.vercel.app/api?username=clayscript&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![clayscript's Streak](https://github-readme-streak-stats.herokuapp.com/?user=clayscript&theme=vue-dark&hide_border=true)
-![clayscript's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clayscript&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <a href="https://github.com/clayscript?tab=repositories"><img src="https://img.shields.io/github/followers/clayscript?label=Follow&style=social"></a>
-  <a href="https://github.com/zetaforge"><img src="https://img.shields.io/badge/ZetaForge-Contributor-blueviolet?logo=github"></a>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/FiveM-F9A825?style=for-the-badge&logo=rockstargames&logoColor=white" alt="FiveM" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
