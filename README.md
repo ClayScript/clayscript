@@ -15,7 +15,7 @@
 
 ### 🎮 Aktuelles Hauptprojekt
 
-**[Backrooms: Out of Box]** *(Co-Gründer & Entwickler)*
+**Backrooms: Out of Box** - *(Co-Gründer & Entwickler)*
 > *"An infinite, procedurally generated descent into the unknown."*
 
 Derzeit arbeite ich als Co-Gründer hauptentscheidend an unserem neuen Indie-Game **Backrooms: Out of Box**. Wir entwickeln ein atmosphärisches, prozedural generiertes Erlebnis, das den Spieler in das Unbekannte hinabsteigen lässt. 
