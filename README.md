@@ -20,7 +20,6 @@
 
 Derzeit arbeite ich als Co-Gründer hauptentscheidend an unserem neuen Indie-Game **Backrooms: Out of Box**. Wir entwickeln ein atmosphärisches, prozedural generiertes Erlebnis, das den Spieler in das Unbekannte hinabsteigen lässt. 
 * **Entwickelt mit:** Unity & C#
-* *(Falls ihr einen Discord, eine Website oder einen Trailer habt, kannst du ihn hier verlinken)*
 
 ---
 
