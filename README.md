@@ -1,8 +1,8 @@
 <h1 align="center">👋 Willkommen bei ClayScripts</h1>
 
 <p align="center">
-  <strong>Entwickler von FiveM Scripts</strong><br>
-  Verbessere das Roleplay-Erlebnis auf deinem Server mit performanten und anpassbaren Scripts.
+  <strong>Game Developer & Creator von FiveM Scripts</strong><br>
+  Co-Gründer von <i>Backrooms: Out of Box</i> und Entwickler performanter Roleplay-Scripts.
 </p>
 
 <p align="center">
@@ -13,27 +13,42 @@
 
 ---
 
-### 🚀 Über meine Arbeit
+### 🎮 Aktuelles Hauptprojekt
 
-Ich entwickle FiveM-Ressourcen, die Servern dabei helfen, einzigartige Features zu bieten. Viele meiner Scripts sind **Open Source**, was bedeutet, dass du sie nach dem Kauf perfekt an die Bedürfnisse deines Servers anpassen kannst.
+**[Backrooms: Out of Box]** *(Co-Gründer & Entwickler)*
+> *"An infinite, procedurally generated descent into the unknown."*
+
+Derzeit arbeite ich als Co-Gründer hauptentscheidend an unserem neuen Indie-Game **Backrooms: Out of Box**. Wir entwickeln ein atmosphärisches, prozedural generiertes Erlebnis, das den Spieler in das Unbekannte hinabsteigen lässt. 
+* **Entwickelt mit:** Unity & C#
+* *(Falls ihr einen Discord, eine Website oder einen Trailer habt, kannst du ihn hier verlinken)*
+
+---
+
+### 🚀 Meine FiveM Scripts
+
+Neben meinem Hauptprojekt entwickle ich weiterhin FiveM-Ressourcen, die Servern dabei helfen, einzigartige Features zu bieten. Viele meiner Scripts sind **Open Source**, was bedeutet, dass du sie nach dem Kauf perfekt an die Bedürfnisse deines Servers anpassen kannst.
 
 * 💻 **Schwerpunkt:** FiveM, Lua
-* 🛠️ **Top Scripts:** Job Invite, Restricted Zone
 * 📫 **Kontakt:** Erreichbar über meinen [Tebex-Store](https://clayscripts.tebex.io/)
 
-### 🛒 Beliebte Ressourcen (Tebex)
+#### 🛒 Beliebte Ressourcen (Tebex)
 
 | Script Name | Beschreibung | Link |
 | :--- | :--- | :--- |
 | **Job Invite** | Ein System, um Spielern nahtlos Jobs anzubieten. | [Zum Script](https://clayscripts.tebex.io/package/6361156) |
 | **Restricted Zone** | Erstelle und verwalte Sperrzonen auf der Map für spannenderes RP. | [Zum Script](https://clayscripts.tebex.io/package/6361699) |
 
+---
+
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   <img alt="Static Badge" src="https://img.shields.io/badge/fivem-orange?style=for-the-badge&logo=fivem&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
